@@ -1,0 +1,4 @@
+Yakan latihan :
+1. Apakah sudah mahir menggunakan Git?
+2. Apakah sudah mahir mengatasi masalah seputar Git ?
+3. Apakah sudah bisa ke Tahap selanjutnya ?
